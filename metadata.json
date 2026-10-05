@@ -31,7 +31,7 @@
       "id": "area_02",
       "number": "02",
       "title": "SLA GeoData & Topografía",
-      "description": "Levantamientos fotogramétricos, ortomosaicos y análisis espacial con QGIS.",
+      "description": "s y análisis espacial con QGIS.",
       "points": [
         "Modelos Digitales de Elevación (MDE/MDT) y curvas de nivel de alta precisión.",
         "Análisis hidrológico de cuencas y drenaje pluvial para viabilidad de sitio.",
