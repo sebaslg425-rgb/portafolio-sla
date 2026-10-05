@@ -1,15 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import { usePortfolio } from '../context/PortfolioContext';
 import { Menu, X } from 'lucide-react';
-import { EditableImage } from './EditableImage';
 
 export const Header: React.FC = () => {
-  const { data, isEditMode } = usePortfolio();
+  const { isEditMode } = usePortfolio();
 
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
 
-  // Scroll listener: disappears when scrolling down away from the top/first page
+  // Ocultar encabezado al hacer scroll hacia abajo, visible al volver a la cima
   useEffect(() => {
     const handleScroll = () => {
       const scrolled = window.scrollY > 60;
@@ -41,21 +40,24 @@ export const Header: React.FC = () => {
       }`}
     >
       <div className="max-w-[1440px] mx-auto px-6 lg:px-12 py-2 md:py-2.5 flex items-center justify-between gap-4">
-        {/* LOGO ZONE: Redimensionable en aristas, posición y tamaño con persistencia total */}
-        <div className="relative flex items-center shrink-0">
-          <EditableImage
-            imageId={data.logo.imageId || 'img_logo_brandmark'}
-            defaultAlt="Logotipo Oficial SLA — Sebastián Lozada Arquitectos"
-            className="w-full h-full object-contain object-left pointer-events-auto"
-            containerClassName="flex items-center"
-            allowResize={true}
-            onClick={() => {
-              window.scrollTo({ top: 0, behavior: 'smooth' });
-            }}
+        {/* LOGO: Carga estática de imagen desde /images/logo.png */}
+        <a
+          href="#"
+          onClick={(e) => {
+            e.preventDefault();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          }}
+          className="relative flex items-center shrink-0 group focus:outline-none"
+          title="SLA — Sebastián Lozada Arquitectos"
+        >
+          <img
+            src="/images/logo.png"
+            alt="SLA — Sebastián Lozada Arquitectos"
+            className="h-8 md:h-9 w-auto object-contain object-left transition-opacity duration-200 group-hover:opacity-80"
           />
-        </div>
+        </a>
 
-        {/* DESKTOP NAVIGATION (Zone 2) */}
+        {/* NAVEGACIÓN EN DESKTOP */}
         <nav className="hidden md:flex items-center gap-7 lg:gap-9">
           {navLinks.map((item) => (
             <a
@@ -68,7 +70,7 @@ export const Header: React.FC = () => {
           ))}
         </nav>
 
-        {/* MOBILE HAMBURGER BUTTON */}
+        {/* BOTÓN MENÚ MÓVIL */}
         <div className="flex md:hidden items-center">
           <button
             type="button"
@@ -81,7 +83,7 @@ export const Header: React.FC = () => {
         </div>
       </div>
 
-      {/* MOBILE FLYOUT NAVIGATION DRAWER */}
+      {/* MENÚ DESPLEGABLE EN MÓVIL */}
       {mobileMenuOpen && (
         <div className="md:hidden border-t border-[#111111]/15 bg-[#f7f7f7] px-6 py-6 space-y-4 font-mono">
           <div className="text-[10px] text-gray-500 uppercase tracking-widest pb-2 border-b border-[#111111]/10">
