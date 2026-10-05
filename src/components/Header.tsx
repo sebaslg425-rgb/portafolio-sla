@@ -53,7 +53,7 @@ export const Header: React.FC = () => {
           <img
             src="/images/logo.png"
             alt="SLA — Sebastián Lozada Arquitectos"
-            className="h-16 md:h-20 w-auto object-contain object-left transition-opacity duration-200 group-hover:opacity-80"
+            className="h-18 md:h-22 w-auto object-contain object-left transition-opacity duration-200 group-hover:opacity-80"
           />
         </a>
 
