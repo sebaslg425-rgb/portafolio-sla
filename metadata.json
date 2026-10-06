@@ -363,7 +363,7 @@
     },
     "img_portrait": {
       "id": "img_portrait",
-      "src": "/images/foto.JPG",
+      "src": "public/images/foto.JPG",
       "alt": "foto.JPG",
       "unlockedRatio": false,
       "fileName": "foto.JPG"
