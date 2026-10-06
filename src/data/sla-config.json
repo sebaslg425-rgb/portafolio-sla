@@ -190,21 +190,21 @@
     {
       "id": "site_01",
       "imageId": "img_site_01",
-      "title": "Cimbrado Enduelado de Muro Norte",
-      "description": "Montaje de cimbra de madera de pino de primera con modulación a 10 cm para lograr textura aparente continua en muro de concreto ciclópeo. Se verifica plomo, estanqueidad de juntas y colocación de moños pasantes de acero.",
+      "title": "Impermeabilización.",
+      "description": "Trabajos de impermeabilización, sistema de membrana asfaltica con refuerzo en fibra de vidrio 3.5\nmm de espesor, sistema de instalación mediante termofusión.",
       "meta": "FASE 01 // CIMBRADO & ENCOFRADO"
     },
     {
       "id": "site_02",
       "imageId": "img_site_02",
-      "title": "Habilitado y Amarre de Acero de Refuerzo",
-      "description": "Supervisión y control de traslapes en armado de losa nervada con varilla corrugada fy=4200 kg/cm². Verificación de recubrimientos libres mínimos con separadores de mortero y colocación de estribos a cada 15 cm en nodos críticos.",
+      "title": "Habilitado de sistema  vigueta y bovedilla",
+      "description": "Habilitado de sistema aligerado para losa de vigueta y bovedilla, refuerzo de malla electrosoldada 6-6 10-10, capa de compresíon de 5cm F´c: 150 cm/kg2",
       "meta": "FASE 02 // ESTRUCTURA & ARMADO"
     },
     {
       "id": "site_03",
       "imageId": "img_site_03",
-      "title": "Vaciado y Vibrado Mecánico de Concreto",
+      "title": "Construcción de cisterna",
       "description": "Colado continuo de losa aligerada con concreto premezclado f'c=250 kg/cm² bombeado en sitio. Control de revenimiento a 14 cm, vibrado por inmersión sistemático para evitar oquedades y aplicación de membrana de curado a base de agua.",
       "meta": "FASE 03 // VACIADO & CURADO"
     },
