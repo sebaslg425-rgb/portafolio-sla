@@ -19,12 +19,12 @@
     {
       "id": "area_01",
       "number": "01",
-      "title": "Arquitectura y Diseño",
-      "description": "Composiciones volumétricas, texturas locales y diseño gerontológico.",
+      "title": "Arquitectura e Ingenierías",
+      "description": "Desarrollo de anteproyecto arquitectónico y ejecutivo.",
       "points": [
         "Exploración formal del partido arquitectónico y relación directa con el entorno.",
-        "Plantas, alzados geométricos, cortes y volumetrías funcionales.",
-        "Materialidad honesta: concreto aparente, canteras regionales y madera natural."
+        "Plantas, alzados, cortes y volumetrías.",
+        "Planimetría técnica completa, cruce de ingeniaerías y memorías constructivas"
       ]
     },
     {
