@@ -417,7 +417,8 @@
       "src": "/images/origen-1.jpg",
       "alt": "origen-1.jpg",
       "unlockedRatio": false,
-      "fileName": "origen-1.jpg"
+      "fileName": "origen-1.jpg",
+      "breakpoints": {}
     },
     "img_proj_03_interior_1": {
       "id": "img_proj_03_interior_1",
