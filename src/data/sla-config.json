@@ -192,42 +192,42 @@
       "imageId": "img_site_01",
       "title": "Impermeabilización.",
       "description": "Trabajos de impermeabilización, sistema de membrana asfaltica con refuerzo en fibra de vidrio 3.5\nmm de espesor, sistema de instalación mediante termofusión.",
-      "meta": "FASE 01 // CIMBRADO & ENCOFRADO"
+      "meta": "FASE - ACABADOS"
     },
     {
       "id": "site_02",
       "imageId": "img_site_02",
       "title": "Habilitado de sistema  vigueta y bovedilla",
       "description": "Habilitado de sistema aligerado para losa de vigueta y bovedilla, refuerzo de malla electrosoldada 6-6 10-10, capa de compresíon de 5cm F´c: 150 cm/kg2",
-      "meta": "FASE 02 // ESTRUCTURA & ARMADO"
+      "meta": "FASE - ESTRUCTURA & ARMADO"
     },
     {
       "id": "site_03",
       "imageId": "img_site_03",
       "title": "Construcción de cisterna",
       "description": "Colado continuo de losa aligerada con concreto premezclado f'c=250 kg/cm² bombeado en sitio. Control de revenimiento a 14 cm, vibrado por inmersión sistemático para evitar oquedades y aplicación de membrana de curado a base de agua.",
-      "meta": "FASE 03 // VACIADO & CURADO"
+      "meta": "FASE - ALBAÑILERÍA"
     },
     {
       "id": "site_04",
       "imageId": "img_site_04",
       "title": "Levantamiento de Muro en Cantera Regional",
       "description": "Corte a disco y asentado de sillares de cantera gris local con mortero estabilizado. Se cuidan las hiladas horizontales y la junta retranqueada a 1.5 cm para generar sombra y resaltar la honestidad del material pétreo.",
-      "meta": "FASE 04 // MAMPOSTERÍA & CANTERA"
+      "meta": "FASE - PREELIMINARES"
     },
     {
       "id": "site_05",
       "imageId": "img_site_05",
       "title": "Trazo Geodésico y Nivelación con Estación Total",
       "description": "Verificación de ejes principales y bancos de nivel en terreno accidentado. Enlace directo de coordenadas UTM obtenidas en campo hacia el modelo federado BIM en Revit para garantizar precisión milimétrica.",
-      "meta": "FASE 05 // TOPOGRAFÍA & TRAZO"
+      "meta": "FASE - APLANADOS"
     },
     {
       "id": "site_06",
       "imageId": "img_site_06",
       "title": "Montaje de Marcos Rígidos de Acero",
       "description": "Izaje y fijación de perfiles IPR de acero estructural con placas de nudo empernadas de alta resistencia A325. Ensamble en seco que permite gran ligereza espacial y rapidez de montaje sobre basamento de piedra.",
-      "meta": "FASE 06 // ESTRUCTURA METÁLICA"
+      "meta": "FASE - ALBAÑILERÍA"
     }
   ],
   "identity": {
