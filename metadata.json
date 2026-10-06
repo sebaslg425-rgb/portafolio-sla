@@ -4,13 +4,13 @@
     "tagline": "DOSSIER TÉCNICO"
   },
   "hero": {
-    "dossierTag": "SEBASTIÁN LOZADA ARQUITECTOS · DOSSIER TÉCNICO",
+    "dossierTag": "DOSSIER TÉCNICO Y DE PROYECTOS",
     "line1": "Diseñando la escena",
     "line2": "de lo cotidiano.",
     "line3": "Diseño espacial limpio,",
     "line4Prefix": "viabilidad técnica ",
     "line4Accent": "absoluta.",
-    "subtitle": "Anteproyecto, proyecto ejecutivo y control de obra",
+    "subtitle": "Anteproyecto, proyecto ejecutivo y control de obra.",
     "ctaProjects": "VER PROYECTOS",
     "ctaContact": "CONTACTO"
   },
@@ -20,33 +20,33 @@
       "id": "area_01",
       "number": "01",
       "title": "Arquitectura y Diseño",
-      "description": "Composiciones volumétricas, texturas locales y diseño gerontológico.",
+      "description": "Anteproyecto arquitectónico y proyecto ejecutivo",
       "points": [
         "Exploración formal del partido arquitectónico y relación directa con el entorno.",
-        "Plantas, alzados geométricos, cortes y volumetrías funcionales.",
-        "Materialidad honesta: concreto aparente, canteras regionales y madera natural."
+        "Plantas, alzados, cortes y volumetrías.",
+        "Desarrollo de planimetría técnica completa, coordinación de ingenierías y memorias constructivas."
       ]
     },
     {
       "id": "area_02",
       "number": "02",
-      "title": "SLA GeoData & Topografía",
-      "description": "s y análisis espacial con QGIS.",
+      "title": "Construcción y Control",
+      "description": "Ejecución de obra civil y administración de obra",
       "points": [
-        "Modelos Digitales de Elevación (MDE/MDT) y curvas de nivel de alta precisión.",
-        "Análisis hidrológico de cuencas y drenaje pluvial para viabilidad de sitio.",
-        "Integración de cartografía georreferenciada a plataformas de diseño BIM."
+        "Supervisión y dirección técnica de trabajos de obra civil.",
+        "Coordinación y supervición de costos, tiempos y presupuestos.",
+        "Control de calidad e inspecciones in situ."
       ]
     },
     {
       "id": "area_03",
       "number": "03",
-      "title": "Modelado y BIM",
-      "description": "Documentación ejecutiva, familias paramétricas y cuantificación con Revit y D5 Render.",
+      "title": "Mantenimiento e Intervención",
+      "description": "Intervenciones a nivel micro para conservación de inmuebles.",
       "points": [
-        "Modelos LOD 350-400 para coordinación técnica interdisciplinaria.",
-        "Cuantificación volumétrica paramétrica y control de costos de obra.",
-        "Renders fotorrealistas de alta fidelidad e iluminación solar con D5 Render."
+        "Sistemas de impermeabilización y contra humedad.",
+        "Rehabilitación de fachadas, recubrimientos y acabados.",
+        "Mantenimiento general preventivo y correctivo para mantener la integridad estructural y estética del inmueble."
       ]
     }
   ],
@@ -185,7 +185,7 @@
     }
   ],
   "constructionLogTitle": "REGISTRO DE OBRA",
-  "constructionLogSubtitle": "Bitácora fotográfica de procesos constructivos, materialidad honesta y control de calidad en campo.",
+  "constructionLogSubtitle": "Bitácora fotográfica de procesos en campo.",
   "constructionLog": [
     {
       "id": "site_01",
@@ -232,7 +232,7 @@
   ],
   "identity": {
     "kicker": "IDENTIDAD & FILOSOFÍA",
-    "firstName": "Sebastián",
+    "firstName": "Arq. Sebastián",
     "lastName": "Lozada González",
     "bio": "Arquitecto enfocado en el diseño espacial limpio y la viabilidad técnica. Mi trabajo se define por traducir necesidades complejas en soluciones arquitectónicas sólidas, tanto en concepto como en ejecución. Entiendo la arquitectura como una disciplina integral donde la geometría precisa, la honestidad de la materialidad, la aplicación eficiente de sistemas constructivos y el análisis riguroso del entorno son los pilares para materializar cada propuesta: diseñando así la escena de lo cotidiano.",
     "skills": [
@@ -264,25 +264,25 @@
     "experience": [
       {
         "id": "exp_01",
-        "period": "2024 - ACTUALIDAD",
-        "role": "Fundador y Director de Proyecto",
+        "period": "ACTUALIDAD",
+        "role": "Arquitecto independiente",
         "company": "Sebastian Lozada Arquitectos."
       },
       {
         "id": "exp_02",
-        "period": "2024 - 2025",
+        "period": "2024 - 2026",
         "role": "Arquitecto Residente",
         "company": "Taller Arquitectónico RTGL."
       },
       {
         "id": "exp_03",
-        "period": "2024",
+        "period": "2023 - 2024",
         "role": "Arquitecto Residente / Proyectista",
         "company": "Ing. Omar Cortés León."
       }
     ],
     "educationTitle": "FORMACIÓN ACADÉMICA",
-    "education": "Licenciatura en Arquitectura / Universidad Autónoma del Estado de Hidalgo (UAEH)",
+    "education": "Licenciatura en Arquitectura    l   UAEH",
     "softwareTitle": "USO DE SOFTWARE",
     "software": "2D (AutoCAD) · BIM (Revit) · Visualización (D5 Render) · Post (Photoshop) · Gestión (Office)",
     "softwareList": [
@@ -297,13 +297,13 @@
   "contact": {
     "kicker": "CANALES DE COMUNICACIÓN",
     "title": "Sigamos proyectando.",
-    "subtitle": "Disponible para anteproyecto, proyecto ejecutivo y control de obra.",
+    "subtitle": "Háblanos de tu idea, volvámosla material.",
     "email": "arqsebaslozada@gmail.com",
     "whatsappText": "775 - 188 - 1504",
     "whatsappNumber": "+527751881504",
     "instagramHandle": "sebas__lozada",
     "instagramUrl": "https://instagram.com/sebas__lozada",
-    "footerCopyright": "© 2026 SLA — SEBASTIÁN LOZADA ARQUITECTOS. PACHUCA, HIDALGO, MÉXICO."
+    "footerCopyright": "SEBASTIÁN LOZADA ARQUITECTOS. CD. SAHAGÚN, HIDALGO, MÉXICO."
   },
   "logo": {
     "imageId": "img_logo_brandmark",
@@ -317,19 +317,19 @@
         "height": 34
       },
       "desktop": {
-        "width": 409,
-        "height": 93
+        "width": 175,
+        "height": 37
       }
     }
   },
   "images": {
     "img_logo_brandmark": {
       "id": "img_logo_brandmark",
-      "src": "/images/logo.png",
-      "alt": "logo.png",
-      "width": 409,
-      "height": 93,
-      "panX": -14,
+      "src": "/images/img_logo_brandmark.jpg",
+      "alt": "Logotipo Oficial Sebastián Lozada Arquitectos SLA",
+      "width": 175,
+      "height": 37,
+      "panX": 0,
       "panY": 0,
       "unlockedRatio": false,
       "breakpoints": {
@@ -346,33 +346,27 @@
           "panY": 0
         },
         "desktop": {
-          "width": 409,
-          "height": 93,
-          "panX": -14,
+          "width": 175,
+          "height": 37,
+          "panX": 0,
           "panY": 0
         }
-      },
-      "fileName": "logo.png"
+      }
     },
     "img_hero_billboard": {
       "id": "img_hero_billboard",
       "src": "/images/img_hero_billboard.jpg",
       "alt": "SLA Dossier Técnico Panel Gráfico",
       "width": 600,
-      "height": 338,
-      "unlockedRatio": false,
-      "breakpoints": {
-        "desktop": {
-          "width": 600,
-          "height": 338
-        }
-      }
+      "height": 520,
+      "unlockedRatio": false
     },
     "img_portrait": {
       "id": "img_portrait",
-      "src": "/images/img_portrait.jpg",
-      "alt": "Retrato de Sebastián Lozada González en mesa de dibujo con planos",
-      "unlockedRatio": false
+      "src": "/images/foto.JPG",
+      "alt": "foto.JPG",
+      "unlockedRatio": false,
+      "fileName": "foto.JPG"
     },
     "img_proj_01_cover": {
       "id": "img_proj_01_cover",
@@ -394,9 +388,10 @@
     },
     "img_proj_02_cover": {
       "id": "img_proj_02_cover",
-      "src": "/images/img_proj_02_cover.jpg",
-      "alt": "Capilla Yaax Jan - Volumen de concreto en la selva de Yucatán",
-      "unlockedRatio": false
+      "src": "/images/capilla-1.jpg",
+      "alt": "capilla-1.jpg",
+      "unlockedRatio": false,
+      "fileName": "capilla-1.jpg"
     },
     "img_proj_02_interior_1": {
       "id": "img_proj_02_interior_1",
@@ -412,9 +407,10 @@
     },
     "img_proj_03_cover": {
       "id": "img_proj_03_cover",
-      "src": "/images/img_proj_03_cover.jpg",
-      "alt": "Pabellón Cantera & Niebla - Mineral del Monte",
-      "unlockedRatio": false
+      "src": "/images/origen-1.jpg",
+      "alt": "origen-1.jpg",
+      "unlockedRatio": false,
+      "fileName": "origen-1.jpg"
     },
     "img_proj_03_interior_1": {
       "id": "img_proj_03_interior_1",
@@ -436,39 +432,45 @@
     },
     "img_site_01": {
       "id": "img_site_01",
-      "src": "/images/img_site_01.jpg",
-      "alt": "Registro de Obra 01 - Cimbrado Enduelado de Muro Norte",
-      "unlockedRatio": false
+      "src": "/images/o10.jpg",
+      "alt": "o10.jpg",
+      "unlockedRatio": false,
+      "fileName": "o10.jpg"
     },
     "img_site_02": {
       "id": "img_site_02",
-      "src": "/images/img_site_02.jpg",
-      "alt": "Registro de Obra 02 - Habilitado y Amarre de Acero de Refuerzo",
-      "unlockedRatio": false
+      "src": "/images/o6.jpg",
+      "alt": "o6.jpg",
+      "unlockedRatio": false,
+      "fileName": "o6.jpg"
     },
     "img_site_03": {
       "id": "img_site_03",
-      "src": "/images/img_site_03.jpg",
-      "alt": "Registro de Obra 03 - Vaciado y Vibrado Mecánico de Concreto",
-      "unlockedRatio": false
+      "src": "/images/o2.jpg",
+      "alt": "o2.jpg",
+      "unlockedRatio": false,
+      "fileName": "o2.jpg"
     },
     "img_site_04": {
       "id": "img_site_04",
-      "src": "/images/img_site_04.jpg",
-      "alt": "Registro de Obra 04 - Levantamiento de Muro en Cantera Regional",
-      "unlockedRatio": false
+      "src": "/images/o1.JPG",
+      "alt": "o1.JPG",
+      "unlockedRatio": false,
+      "fileName": "o1.JPG"
     },
     "img_site_05": {
       "id": "img_site_05",
-      "src": "/images/img_site_05.jpg",
-      "alt": "Registro de Obra 05 - Trazo Geodésico y Nivelación con Estación Total",
-      "unlockedRatio": false
+      "src": "/images/o9.jpg",
+      "alt": "o9.jpg",
+      "unlockedRatio": false,
+      "fileName": "o9.jpg"
     },
     "img_site_06": {
       "id": "img_site_06",
-      "src": "/images/img_site_06.jpg",
-      "alt": "Registro de Obra 06 - Montaje de Marcos Rígidos de Acero",
-      "unlockedRatio": false
+      "src": "/images/o7.jpg",
+      "alt": "o7.jpg",
+      "unlockedRatio": false,
+      "fileName": "o7.jpg"
     }
   },
   "textStyles": {}
