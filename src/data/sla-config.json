@@ -356,17 +356,18 @@
     },
     "img_hero_billboard": {
       "id": "img_hero_billboard",
-      "src": "/images/img_hero_billboard.jpg",
-      "alt": "SLA Dossier Técnico Panel Gráfico",
+      "src": "/images/IMG_0429.JPG",
+      "alt": "IMG_0429.JPG",
       "width": 600,
-      "height": 338,
+      "height": 467,
       "unlockedRatio": false,
       "breakpoints": {
         "desktop": {
           "width": 600,
-          "height": 338
+          "height": 467
         }
-      }
+      },
+      "fileName": "IMG_0429.JPG"
     },
     "img_portrait": {
       "id": "img_portrait",
