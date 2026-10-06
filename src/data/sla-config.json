@@ -33,9 +33,9 @@
       "title": "Ejecución y control de obra",
       "description": "Ejecución de obra civil y dirección técnica en campo.",
       "points": [
-        "Modelos Digitales de Elevación (MDE/MDT) y curvas de nivel de alta precisión.",
-        "Análisis hidrológico de cuencas y drenaje pluvial para viabilidad de sitio.",
-        "Integración de cartografía georreferenciada a plataformas de diseño BIM."
+        "Trabajos supervisados de obra civil.",
+        "Supervición e inspección técnica en campo.",
+        "Administración y control financiero y operativo de obra."
       ]
     },
     {
@@ -395,9 +395,10 @@
     },
     "img_proj_02_cover": {
       "id": "img_proj_02_cover",
-      "src": "/images/img_proj_02_cover.jpg",
-      "alt": "Capilla Yaax Jan - Volumen de concreto en la selva de Yucatán",
-      "unlockedRatio": false
+      "src": "/images/capilla-1.jpg",
+      "alt": "capilla-1.jpg",
+      "unlockedRatio": false,
+      "fileName": "capilla-1.jpg"
     },
     "img_proj_02_interior_1": {
       "id": "img_proj_02_interior_1",
@@ -413,9 +414,10 @@
     },
     "img_proj_03_cover": {
       "id": "img_proj_03_cover",
-      "src": "/images/img_proj_03_cover.jpg",
-      "alt": "Pabellón Cantera & Niebla - Mineral del Monte",
-      "unlockedRatio": false
+      "src": "/images/origen-1.jpg",
+      "alt": "origen-1.jpg",
+      "unlockedRatio": false,
+      "fileName": "origen-1.jpg"
     },
     "img_proj_03_interior_1": {
       "id": "img_proj_03_interior_1",
